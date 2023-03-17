@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:online_course/screens/account.dart';
-import 'package:online_course/screens/chat.dart';
-import 'package:online_course/theme/color.dart';
-import 'package:online_course/utils/constant.dart';
-import 'package:online_course/widgets/bottombar_item.dart';
+import 'package:meilleur_manager/screens/account.dart';
+import 'package:meilleur_manager/screens/chat.dart';
+import 'package:meilleur_manager/theme/color.dart';
+import 'package:meilleur_manager/utils/constant.dart';
+import 'package:meilleur_manager/widgets/bottombar_item.dart';
 import 'home.dart';
 
 class RootApp extends StatefulWidget {
